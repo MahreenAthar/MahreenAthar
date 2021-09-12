@@ -11,7 +11,7 @@ Skills: Python | C++ | React | R
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MahreenAthar)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahreenAthar&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahreenAthar&show_icons=true&title_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 <!--
 **MahreenAthar/MahreenAthar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
