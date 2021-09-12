@@ -29,8 +29,11 @@ Skills: Python | C++ | React | R
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MahreenAthar)  
 
+<div align = 'center'>
+  
 ### Show some ❤️ by following and starring some of the repositories!
 
+<div />
 <!--
 **MahreenAthar/MahreenAthar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
