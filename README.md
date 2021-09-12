@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mahreen Athar
+### Hi, I'm Mahreen Athar 👋
 
 <p align="left"> </p>
 
@@ -17,13 +17,6 @@
 
 <br/>
 <br/>
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MahreenAthar)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahreen-athar-7666ma/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahreen.athar.5) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Tbato_)    
 
 I'm a student at FAST NUCES Islamabad. I'm a Data Scientist in the making. I work mainly with Python (Numpy, Pandas, Scikit Learn, Seaborn, Matplotlib) but I also aspire to be a full stack developer for which I have started learning new languages and tools to help me along my coding journey.
 
