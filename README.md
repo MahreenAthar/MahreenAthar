@@ -27,7 +27,7 @@ Skills: Python | C++ | React | R
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahreenAthar&show_icons=true&title_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MahreenAthar)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MahreenAthar)   -->
 
 <div align = 'center'>
   
