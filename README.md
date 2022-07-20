@@ -20,10 +20,10 @@
 
 I'm a student at FAST NUCES Islamabad. I'm a Data Scientist in the making. I work mainly with Python (Numpy, Pandas, Scikit Learn, Seaborn, Matplotlib) but I also aspire to be a full stack developer for which I have started learning new languages and tools to help me along my coding journey.
 
-Skills: Python | C++ | React | R
+Skills: Python | Vue | Docker | Vagrant | C++ | React | R
 
-- 🌱 I’m currently learning ReactJS 
-- 👯 I’m looking to collaborate on more data science related projects 
+- 🌱 I’m currently learning MERN Stack 
+- 👯 I’m looking to collaborate on more data science + web development related projects 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahreenAthar&show_icons=true&title_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
