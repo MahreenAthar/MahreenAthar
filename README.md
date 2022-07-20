@@ -22,7 +22,7 @@ I'm a student at FAST NUCES Islamabad. I'm a Data Scientist in the making. I wor
 
 Skills: Python | Vue | Docker | Vagrant | C++ | React | R
 
-- 🌱 I’m currently learning MERN Stack 
+- 🌱 I’m currently learning to work with Geospatial data (Python) and MERN Stack 
 - 👯 I’m looking to collaborate on more data science + web development related projects 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahreenAthar&show_icons=true&title_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
