@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-I'm a student at FAST NUCES Islamabad. I'm a Data Scientist in the making. I work mainly with Python (Numpy, Pandas, Scikit Learn, Seaborn, Matplotlib) but I also aspire to be a full stack developer for which I have started learning new languages and tools to help me along my coding journey.
+I'm a student at FAST NUCES Islamabad. I'm a Data Scientist in the making. I work mainly with Python (Geopandas, Numpy, Pandas, Scikit Learn, Seaborn, Matplotlib) but I also aspire to be a full stack developer for which I have started learning new languages and tools to help me along my coding journey.
 
 Skills: Python | Vue | Docker | Vagrant | C++ | React | R
 
