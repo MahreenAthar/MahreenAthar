@@ -31,17 +31,7 @@ Skills: Python | Vue | Docker | Vagrant | C++ | React | R
 
 <div align = 'center'>
 
-You can use the `&layout=compact` option to change the card design.
-
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahreenAthar&layout=compact)](https://github.com/MahreenAthar/github-readme-stats)
-```
-
-### Demo
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahreenAthar)](https://github.com/MahreenAthar/github-readme-stats)
-
-- Compact layout
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 ### Show some ❤️ by following and starring some of the repositories!
 
