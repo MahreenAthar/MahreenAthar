@@ -25,13 +25,13 @@ Skills: Python | Vue | Docker | Vagrant | C++ | React | R
 - 🌱 I’m currently learning to work with Geospatial data (Python) and MERN Stack 
 - 👯 I’m looking to collaborate on more data science + web development related projects 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahreenAthar&show_icons=true&title_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahreenAthar&show_icons=true&title_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) -->
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MahreenAthar)   -->
+<!-- 
+<div align = 'center'> -->
 
-<div align = 'center'>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahreenAthar&layout=compact)](https://github.com/MahreenAthar/github-readme-stats)
   
 ### Show some ❤️ by following and starring some of the repositories!
 
