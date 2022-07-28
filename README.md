@@ -30,6 +30,18 @@ Skills: Python | Vue | Docker | Vagrant | C++ | React | R
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MahreenAthar)   -->
 
 <div align = 'center'>
+
+You can use the `&layout=compact` option to change the card design.
+
+```md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahreenAthar&layout=compact)](https://github.com/MahreenAthar/github-readme-stats)
+```
+
+### Demo
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahreenAthar)](https://github.com/MahreenAthar/github-readme-stats)
+
+- Compact layout
   
 ### Show some ❤️ by following and starring some of the repositories!
 
