@@ -15,6 +15,8 @@
 <br/>
 <br/>
 
-I started with data science, dove into visualization, and now I’m riding the wave between Business Intelligence, Product Management, and Product Strategy, where data-driven insights meet creative solutions. I turn raw data and stakeholder requirements into actionable strategies that help businesses make smarter, more informed decisions.
+My career has been a series of increasingly expensive curiosities: Data Science, Product, and AI. Product taught me that humans refuse to behave like data, so now I spend my days translating human behavior into products. AI sits somewhere in the middle.
 
-I thrive on combining analytics with product strategy, simplifying complex challenges, and driving innovation. For me, it’s about leveraging data & AI to craft strategies that push boundaries and deliver meaningful impact in both technology and business.
+I've developed a taste for ambiguity, unnecessary complexity, and asking "why" a socially unacceptable number of times. Intellectually restless and a little eccentric. Some people call it overthinking. I've been fortunate enough to invoice for it.
+
+I promise I'm friendlier than that sounds.
